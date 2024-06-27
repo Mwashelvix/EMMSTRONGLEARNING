@@ -26,11 +26,11 @@ Emmstrong Learning Hub
 
 # Potential Challenges
 
-Identifying and acquiring high-quality learning materials
-Implementing a robust and user-friendly website infrastructure
-Ensuring compatibility with various devices and platforms
-Managing copyright and intellectual property issues
-Training students and instructors on the platform
+Identifying and acquiring high-quality learning materials.
+Implementing a robust and user-friendly website infrastructure.
+Ensuring compatibility with various devices and platforms.
+Managing copyright and intellectual property issues.
+Training students and instructors on the platform.
 # Collaboration
 
 I'll be working alone.
